@@ -8,4 +8,4 @@ Crud con Login para registrar productos
 - Tener instalado PostgreSQL
 
 #Proyecto de Java Web con maven CRUD para una lista de productos 
-Josue Alcivar
+# Proyecto Creado por: Josue Alcivar
